@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vippr1237
-- 👀 I’m interested in bong' ro, ckam` cam va` anime
-- 🌱 I’m currently learning cach' khoc' k tao tieng' dong
-- 💞️ I’m looking to collaborate on tim` lai trai' tim tan nat'
-- 📫 How to reach me ...
+- 👋 Hi, I’m @vippr1237 aka Coang Ha`
+- 👀 I’m interested in bong' ro, ckam` cam va' anime + tin hoc
+- 🌱 I’m currently learning nem' 3s k airball, k lam` ganh' nang cho team va` javascript, web, api
+- 💞️ I’m looking to collaborate on cung` xem anime va` quen di co ay' :"<
+- 📫 How to reach me https://www.facebook.com/coangha13/
 
 <!---
 vippr1237/vippr1237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
