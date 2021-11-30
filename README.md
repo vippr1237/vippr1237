@@ -1,4 +1,4 @@
-## Hi there, I'm an Devops Engineer. Below it's some information about me. This is where I start my career so I really appriciate it. Thanks to all who have help me.
+## Hi there, I'm an Devops Engineer. Below it's some information about me. This is where I start my career so I really appriciate it. Thanks to all who have helped me.
 ### Keep up with your work. Someday it will pay back. DON'T GIVE UP.
 Here some info about me :-):
 - 👋 I’m @vippr1237 aka Coang Ha`
